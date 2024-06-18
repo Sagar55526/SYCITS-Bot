@@ -59,7 +59,7 @@ button {
 button:hover {
     background-color: #505ed8;
     transform: scale(1.05);
-    box-shadow: 0 0 5px #505ed8, 0 0 10px #505ed8, 0 0 20px #505ed8;
+    box-shadow: 0 0 5px #505ed8, 0 0 10px #505ed8, 0 0 10px #505ed8;
     color: white;
 }
 
